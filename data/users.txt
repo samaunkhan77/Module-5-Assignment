@@ -1,0 +1,5 @@
+
+admin,sharmeem,admin@sharmeem.com,1234
+user,Noman,noman@ostad.com,1234
+user,Hasin,hasin@ostad.com,1234
+user,Rabil,rabil@ostad.com,1234
